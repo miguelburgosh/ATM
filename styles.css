@@ -1,0 +1,122 @@
+/* html */
+
+  html {
+    background-color: lightsalmon;
+  }
+
+  html p {
+    margin-bottom: 0px;
+  }
+
+/* body */
+
+  p {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    line-height: 4em;
+    background-color: lightblue;
+    text-transform: uppercase;
+  }
+
+/* root */
+
+  #root {
+    background-color: lightsalmon;
+  }
+
+/* form */
+
+  form {
+    padding: 20px 20px;
+  }
+
+  form p {
+    color: lightgray;
+  } 
+
+  form img {
+    height: 200px;
+    width: auto;
+    padding: 10px 40px;
+  }
+
+/* logo */
+
+  .logo {
+    width: 100%;
+    text-align: center;
+    background-color: lightblue;
+  }
+
+/* principal */
+
+  .principal {
+    background-color: #131b45;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    height: 200px;
+    padding: 20px 100px;
+  }
+
+  .principal h2 {
+    color: white;
+    font-weight: 400;
+  }
+
+/* label */
+
+  label {
+    color: lightgray;
+    font-size: 18px;
+  }
+
+  select {
+    display: block;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+    padding: 20px 20px;
+  }
+
+/* label huge */
+
+  .label.huge {
+    background-color: lightblue;
+    width: 100%;
+    display: block;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    height: 150px;
+    color: #131b45;
+    padding: 20px 40px;
+    margin-bottom: 0;
+  } 
+
+  .label.huge h3 {
+    font-weight: 700;
+  } 
+
+/* label huge */
+
+  .input {
+    display: inline-block;
+  }
+
+  .submit {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #131b45;
+  }
+
+  #submit-input {
+    background-color: lightsalmon;
+    color:#131b45;
+    border: #131b45 solid 3px;
+  }
+
+  #number-input {
+    text-align: center;
+  }
+
+
+
